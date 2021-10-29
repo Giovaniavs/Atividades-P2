@@ -1,4 +1,4 @@
-package firstActivite;
+package primeiraAtividade;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package firstActivite;
+package primeiraAtividade;
 
 public class Point {
     private int x = 0, y = 0;
