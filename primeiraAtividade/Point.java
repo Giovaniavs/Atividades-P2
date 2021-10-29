@@ -25,7 +25,7 @@ public class Point {
     public void setX(int x) { 
         if (x >=0 && x <= 400) {
             this.x = x; 
-            System.out.println("Sucesso!");
+            System.out.println("Operação bem sucedida!");
         } else {
             System.out.println("O valor de X só pode estar entre 0 e 400");
         }
@@ -34,7 +34,7 @@ public class Point {
     public void setY(int y) { 
         if (y >=0 && y <= 400) {
             this.y = y; 
-            System.out.println("Sucesso!");
+            System.out.println("Operação bem sucedida!");
         } else {
             System.out.println("O valor de Y só pode estar entre 0 e 400");
         } 
