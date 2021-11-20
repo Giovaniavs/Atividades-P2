@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: 11.0.11 (Oracle Corporation)
+
+Name: report.html
+SHA-256-Digest: rr53lokDaBrZDZELHWk8YW82jFWmz+b+eBnhRwuAYkM=
+
+Name: SumNatural.java
+SHA-256-Digest: RvDvVTkcTT1d2ZVNi9gQjS4Zzt6+pGSzPIDln/agN9w=
+

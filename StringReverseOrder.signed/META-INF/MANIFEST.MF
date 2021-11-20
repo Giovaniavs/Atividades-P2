@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: 11.0.11 (Oracle Corporation)
+
+Name: report.html
+SHA-256-Digest: vZq0Gjmv7vLqACzjxtRnm0+qU397GSlNTWhjo7lntl4=
+
+Name: StringReverseOrder.java
+SHA-256-Digest: 7UgYBBLIdNrT5c/K59s3zSSpxVhee6gjPnp8Tbk9tac=
+

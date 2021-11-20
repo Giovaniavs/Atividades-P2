@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: 11.0.11 (Oracle Corporation)
+
+Name: Rainfall.java
+SHA-256-Digest: vUR/xaQcYLWRqXaEbX0RMEOwN5MdxM0KhQY5PkkEzWI=
+
+Name: report.html
+SHA-256-Digest: N5CvqQfDZxlzYBx2/yanabLaUdFYCNSsk0uGwhb9eLs=
+
